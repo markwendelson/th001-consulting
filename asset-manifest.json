@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/th001-consulting/static/css/main.ac1f5ef7.css",
+    "main.js": "/th001-consulting/static/js/main.87ec1b2a.js",
+    "static/media/Navbar.png": "/th001-consulting/static/media/Navbar.f96a9f58c491b9acda99.png",
+    "index.html": "/th001-consulting/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.ac1f5ef7.css",
+    "static/js/main.87ec1b2a.js"
+  ]
+}
